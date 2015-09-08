@@ -5,7 +5,7 @@
 ```
 pip install tweepy
 pip install pymongo
-git clone http://github.com/y-matsuki/twitter-stream-mongo
+git clone https://github.com/y-matsuki/twitter-stream-mongo.git
 ```
 
 ## database
